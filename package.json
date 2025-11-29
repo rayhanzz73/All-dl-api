@@ -1,0 +1,19 @@
+{
+  "name": "Api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SiFu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "express": "^4.21.1",
+    "imran-alldl": "^0.0.3"
+  }
+}
