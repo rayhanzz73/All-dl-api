@@ -17,10 +17,10 @@ This is a simple Express.js application that allows users to download media from
 
 
  ```bash
-   git clone 
+   git clone https://github.com/rayhanzz73/All-dl-api.git
 ```
 ```bash
-   cd ALL-DOWNLODER-API
+   cd All-dl-api
    ```
 
 2. Install the dependencies:
@@ -69,7 +69,3 @@ Feel free to submit issues or pull requests for improvements or new features.
 
 This project is licensed under the MIT License.
 ```
-
-### Notes:
-- Replace `API` and `<repository-directory>` with your actual repository details.
-- Customize sections as needed to better fit your project specifics.
